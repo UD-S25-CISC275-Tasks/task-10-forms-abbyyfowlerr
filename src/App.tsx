@@ -26,9 +26,9 @@ function App(): React.JSX.Element {
             <CheckAnswer expectedAnswer="42"></CheckAnswer>
             <hr></hr>
             <GiveAttempts></GiveAttempts>
-            {/* <hr></hr>
-            <EditMode></EditMode>
             <hr></hr>
+            <EditMode></EditMode>
+            {/* <hr></hr>
             <ChangeColor></ChangeColor>
             <hr></hr>
             <MultipleChoiceQuestion
