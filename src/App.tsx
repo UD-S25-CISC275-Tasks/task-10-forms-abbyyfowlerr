@@ -28,9 +28,9 @@ function App(): React.JSX.Element {
             <GiveAttempts></GiveAttempts>
             <hr></hr>
             <EditMode></EditMode>
-            {/* <hr></hr>
-            <ChangeColor></ChangeColor>
             <hr></hr>
+            <ChangeColor></ChangeColor>
+            {/* <hr></hr>
             <MultipleChoiceQuestion
                 options={["a", "b", "c"]}
                 expectedAnswer="b"
