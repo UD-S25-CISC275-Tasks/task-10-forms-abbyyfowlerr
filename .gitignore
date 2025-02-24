@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/task-components
+=======
+>>>>>>> origin/task-forms
 build/
 
 # Logs
@@ -137,6 +140,7 @@ package-lock.json
 .yarn/build-state.yml
 .yarn/install-state.gz
 <<<<<<< HEAD
+<<<<<<< HEAD
 .pnp.*
 =======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -166,3 +170,6 @@ yarn-error.log*
 =======
 .pnp.*
 >>>>>>> origin/task-components
+=======
+.pnp.*
+>>>>>>> origin/task-forms
